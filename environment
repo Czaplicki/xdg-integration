@@ -1,0 +1,9 @@
+
+
+export XDG_DATA_HOME="$HOME/.local/share"
+export XDG_CONFIG_HOME="$HOME/.config/"
+export XAUTHORITY="$XDG_RUNTIME_DIR/xauthority"
+export LESSHISTFILE="$HOME/.cache/lesshist"
+export GNUPGHOME="$XDG_DATA_HOME/gnupg"
+export CARGO_HOME="$XDG_DATA_HOME/cargo"
+export XINITRC="$XDG_CONFIG_HOME/xorg/initrc"

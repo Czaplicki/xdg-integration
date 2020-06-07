@@ -1,0 +1,7 @@
+
+
+# tmux
+alias tmux="tmux -f ~/.config/tmux/rc "
+
+# wget
+alias wget="wget --hsts-file=\"$XDG_CONFIG_HOME/wget/hsts\" "
